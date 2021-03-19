@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1515000141 source:c:\users\aimeric\desktop\utbm\lo21_kacimi_montange\lo21_kacimi_montange\projet lo21 - kacimi_montange\fichier.c
+	"fichier.h"
+
+1514998965 c:\users\aimeric\desktop\utbm\lo21_kacimi_montange\lo21_kacimi_montange\projet lo21 - kacimi_montange\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515000141 source:c:\users\aimeric\desktop\utbm\lo21_kacimi_montange\lo21_kacimi_montange\projet lo21 - kacimi_montange\main.c
+	"fichier.h"
+
